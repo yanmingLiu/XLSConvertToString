@@ -324,10 +324,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_ENTITLEMENTS = XLSConvertToString/XLSConvertToString.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 2;
+				DEVELOPMENT_TEAM = UR59U78PLZ;
 				INFOPLIST_FILE = XLSConvertToString/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Excel导出iOS工程文件";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
@@ -336,7 +340,8 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/XLSConvertToString/Lib",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.liuming.XLSConvertToString;
+				MARKETING_VERSION = 0.1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = gg.epal.exceltostrings;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -345,10 +350,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_ENTITLEMENTS = XLSConvertToString/XLSConvertToString.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 2;
+				DEVELOPMENT_TEAM = UR59U78PLZ;
 				INFOPLIST_FILE = XLSConvertToString/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Excel导出iOS工程文件";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
@@ -357,7 +366,8 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/XLSConvertToString/Lib",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.liuming.XLSConvertToString;
+				MARKETING_VERSION = 0.1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = gg.epal.exceltostrings;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
